@@ -15,7 +15,7 @@ This is the code for the ICML 2021 paper ["Graph Neural Networks Inspired by Cla
 
 For amazon co-purchase data, please download the data from [IGNN's repo](https://github.com/SwiftieH/IGNN/tree/main/nodeclassification) and put them into dataset/amazon-all/. 
 
-For Heterophily datasets, please donwload [data](https://github.com/graphdml-uiuc-jlu/geom-gcn/tree/master/new_data), [splits](https://github.com/graphdml-uiuc-jlu/geom-gcn/tree/master/splits), [structural_neighborhood](https://github.com/graphdml-uiuc-jlu/geom-gcn/tree/master/structural_neighborhood), and [unconnected_nodes](https://github.com/graphdml-uiuc-jlu/geom-gcn/tree/master/unconnected_nodes) from IGNN's repo and put them under dataset/geom_data/, dataset/splits/, dataset/structural_neighborhood/ and dataset/unconnected_nodes/ respectivly.
+For Heterophily datasets, please donwload [data](https://github.com/graphdml-uiuc-jlu/geom-gcn/tree/master/new_data), [splits](https://github.com/graphdml-uiuc-jlu/geom-gcn/tree/master/splits), [structural_neighborhood](https://github.com/graphdml-uiuc-jlu/geom-gcn/tree/master/structural_neighborhood), and [unconnected_nodes](https://github.com/graphdml-uiuc-jlu/geom-gcn/tree/master/unconnected_nodes) from Geom-GCN's repo and put them under dataset/geom_data/, dataset/splits/, dataset/structural_neighborhood/ and dataset/unconnected_nodes/ respectivly.
 
 Other datasets would be downloaded automatically.
 
